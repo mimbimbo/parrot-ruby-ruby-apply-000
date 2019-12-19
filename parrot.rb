@@ -6,4 +6,4 @@ def parrot(string)
   return string
 end
 
-puts parrot()
+puts parrot("test")
